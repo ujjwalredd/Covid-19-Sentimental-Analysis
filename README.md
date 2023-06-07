@@ -4,14 +4,14 @@ This project uses a variety of machine learning models, such as BERT, RoBERTa, S
 ## Project Structure
 
 The project is structured as follows:
-* '\data.py': In this file we need to change the path of dataset file. 
-* '\bert.py: In this file we have the bert model.
-* '\robert.py': In this file we have the roberta model.
-* '\sequential.py': In this file we have the sequential model with ELU layer added.
-* '\topic.py': In this file we have the topic model code.
-* '\model.py': In this file we have the return values all the models.
-* '\main.py': In this file we have the main code.
-* '\accuracy.py': In this file we have accuracy comparison.
+* 'data.py': In this file we need to change the path of dataset file. 
+* 'bert.py: In this file we have the bert model.
+* 'robert.py': In this file we have the roberta model.
+* 'sequential.py': In this file we have the sequential model with ELU layer added.
+* 'topic.py': In this file we have the topic model code.
+* 'model.py': In this file we have the return values all the models.
+* 'main.py': In this file we have the main code.
+* 'accuracy.py': In this file we have accuracy comparison.
 
 Change all the neccesary column cahnges to be done in all the files.
 
